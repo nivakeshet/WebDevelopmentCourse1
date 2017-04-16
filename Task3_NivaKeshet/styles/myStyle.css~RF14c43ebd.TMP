@@ -1,0 +1,138 @@
+body 
+{
+    direction:rtl;
+    background-image:url(../image/412-54534.jpg);
+    margin: 0px auto;
+    width:1200px;
+}
+h1{
+
+     margin: 20px 400px 20px 150px;
+}
+#container {
+
+     padding-top:70px;
+     
+}
+
+}
+#f1 img{
+display: inline-block;
+
+}
+#f1{
+    padding: 5px 7px; 
+    display: inline-block;
+    border: 7px dashed #ffe4aa; 
+     margin: 50px 0px 50px 0px;
+     position:absolute;
+}
+
+
+#me p{
+    margin: 70px 50px 50px 50px;
+    line-height: 100px;
+}
+header{
+    display: inline-block;
+}
+
+ .nav1 ul li {
+        display: inline-block;
+        float: right;
+        margin-left: 10px;
+         
+    }
+  .nav1 ul li a {
+    color:Black;
+    text-decoration:none;
+    
+    display:block;
+    width:140px;
+    height:30px;
+    text-align:center;  
+
+    padding-top:10px;
+    background-color:#ffe4aa;
+    -moz-border-radius-topleft: 20px;
+    -moz-border-radius-topright: 20px;
+    -moz-border-radius-bottomright: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-radius: 20px 20px 0px 0px;
+    border-radius: 20px 20px 0px 0px; 
+           
+        }
+nav.nav1 ul li a.selected
+{
+     background-color:#ffffff;
+}
+
+nav.nav1 ul li a:hover
+{
+    background-color:#fcd98d;
+}
+nav.nav1 ul li a.selected:hover
+{
+    background-color:#ffffff;
+}
+
+nav.nav1 ul li a:active
+{
+    background-color:#ffffff;
+}
+
+  section{
+   background-color:#ffffff;
+    padding:20px;
+    height:800px;
+    
+    -moz-border-radius-topleft: 0px;
+    -moz-border-radius-topright: 0px;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    -webkit-border-radius: 0px 0px 10px 10px;
+    border-radius: 0px 0px 10px 10px; 
+}
+  h2{
+      font-size: 20px;
+  }
+  p{
+      text-align:center;
+font-weight:bold;
+font-size: 20px;
+  }
+
+ol {
+    list-style-image:url(../image/star.gif);
+    padding:  10px   85px   20px   15px;
+    font-size:16px;
+    line-height: 25px;
+    display: inline-block;
+    list-style-type:none;
+    margin: 70px 50px 50px 50px;
+    line-height: 40px;
+}
+#m p{
+    text-align:center;
+    line-height:40px;
+    padding-top:50px;
+
+}
+#z p{
+   text-align:center;
+    line-height:40px;
+    padding-top:50px;
+}
+
+#t p {
+       text-align:center;
+    line-height:40px;
+    padding-top:50px;
+}
+#t iframe{
+padding
+}
+
+
+
+
